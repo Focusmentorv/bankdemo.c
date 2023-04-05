@@ -6,7 +6,7 @@ int main() {
     char username[] = "myusername";
     char password[] = "mypassword";
     
-    // Prompt user to enter login credentials
+    // Prompt users to enter login credentials
     char enteredUsername[20];
     char enteredPassword[20];
     printf("Enter your username: ");
