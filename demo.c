@@ -2,7 +2,7 @@
 #include <string.h>
 
 int main() {
-    // Set login credent
+    // Set login credentials
     char username[] = "myusername";
     char password[] = "mypassword";
     
