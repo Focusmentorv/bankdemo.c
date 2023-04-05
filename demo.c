@@ -30,7 +30,7 @@ int main() {
         printf("Enter your choice: ");
         scanf("%d", &choice);
         
-        // Handle user's choice
+        // Handle user's choices
         switch (choice) {
             case 1:
                 printf("Your balance is: %.2f\n", balance);
